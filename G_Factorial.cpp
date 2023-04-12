@@ -17,7 +17,11 @@ int main(){
    }
    for (int i = 0; i < n; i++)
    {
-    cout << factorial(ar[i]) << endl;
+    if(ar[i]==0){
+        cout << 1 <<endl;
+    }else{
+        cout << factorial(ar[i]) << endl; 
+    }
    }
    return 0;
 }
