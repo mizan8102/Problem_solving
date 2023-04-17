@@ -2,7 +2,8 @@
     "files.associations": {
         "*.embeddedhtml": "html",
         "iostream": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "xutility": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
