@@ -1,1 +1,2 @@
-#include<iomanip>
+int a;
+//    cin >> a;
