@@ -3,7 +3,8 @@
         "*.embeddedhtml": "html",
         "iostream": "cpp",
         "stdio.h": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "ostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
