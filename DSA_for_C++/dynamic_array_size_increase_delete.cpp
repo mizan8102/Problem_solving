@@ -14,15 +14,12 @@ int main(){
     }
     b[5]=90;
     b[6]=34;
-    for (int i = 0; i < 7; i++)
-    {
-        cout << b[i] << " ";
-    }
     delete[] ar;
-    for (int i = 0; i < 5; i++)
+    ar=b;
+    for (int i = 0; i < 7; i++)
     {
         cout << ar[i] << " ";
     }
-    
+   delete[] b; 
    return 0;
 }
