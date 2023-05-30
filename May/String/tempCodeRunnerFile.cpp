@@ -1,0 +1,1 @@
+cout << "After clear value of a=" << a << endl;
