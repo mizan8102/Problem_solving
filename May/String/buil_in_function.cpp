@@ -15,6 +15,15 @@ int main(){
    else 
         cout << "After clear value of a=" << a << endl;
    
+   // string input 
+    string name;
+    cin >> name; // input without space , space cannot get input cin
+    cout << "Name =" << name << endl;
 
+    cout << "size of name=" << name.size() << endl;
+    name.resize(5);
+    cout << "after resize name =" << name << endl;
+    name.resize(10,'X');
+    cout << "After size increase again name=" << name << endl;
    return 0;
 }
