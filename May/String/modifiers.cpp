@@ -14,5 +14,8 @@ int main(){
     cout << a << endl;
 // concatenate using append fuction 
     cout << a.append(b) << endl;
+ b.push_back('M');
+ b.pop_back();
+    cout << b << endl;
    return 0;
 }
