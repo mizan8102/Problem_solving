@@ -11,7 +11,9 @@ int main(){
    cout << name.at(0) << endl;
    // find last element
    cout << name.back() << endl;
+   cout << name[name.size()-1] << endl;;
    // access the first element 
    cout << name.front() << endl;
+   cout << name[name.size()-name.size()] << endl;
    return 0;
 }
