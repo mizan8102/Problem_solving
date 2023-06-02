@@ -1,0 +1,1 @@
+{"name":"Local: Couting_letter","url":"d:\\C++\\phitron\\frequency_array\\Couting_letter.cpp","tests":[{"id":1685203654359,"input":"mizan","output":"a-1\ni-1\nm-1\nn-1\nz-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\phitron\\frequency_array\\Couting_letter.cpp","group":"local","local":true}

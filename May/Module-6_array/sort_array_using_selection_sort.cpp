@@ -10,7 +10,7 @@ class Student{
         int marks;
 };
 int main(){
-    int n=3;
+    int n=1;
    Student ar[n];
    for (int i = 0; i < n; i++)
    {
